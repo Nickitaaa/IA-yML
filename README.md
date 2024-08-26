@@ -1,4 +1,7 @@
 ### Inteligencia Artificial (IA) ###
+
+![image](https://github.com/user-attachments/assets/519022fd-0568-4352-9f14-60402a0fc4aa)!
+
  
  *Definición:*
 La Inteligencia Artificial (IA) es un área de la informática que se centra en desarrollar sistemas capaces de realizar tareas que normalmente requieren inteligencia humana. Estas tareas incluyen el procesamiento del lenguaje natural, la percepción visual, el razonamiento y la toma de decisiones.
@@ -61,4 +64,35 @@ En el aprendizaje por refuerzo, un agente aprende a tomar decisiones mediante la
 
 Ejemplo:
 Algoritmos que aprenden a jugar videojuegos o resolver rompecabezas, optimizando sus estrategias a través de prueba y error.
+
+### Lenguajes de Programación ###
+Python: El lenguaje más popular para IA y ML, debido a su simplicidad y la amplia disponibilidad de bibliotecas.
+R: Popular en la estadística y análisis de datos, también se usa en algunos casos para IA y ML.
+
+### Bibliotecas y Frameworks de IA/ML###
+TensorFlow: Una biblioteca de código abierto desarrollada por Google para el aprendizaje automático y el aprendizaje profundo.
+Keras: Una interfaz de alto nivel para TensorFlow que simplifica la construcción y entrenamiento de modelos de aprendizaje profundo.
+PyTorch: Desarrollado por Facebook, es conocido por su flexibilidad y facilidad de uso en el desarrollo de modelos de aprendizaje profundo.
+Scikit-Learn: Una biblioteca de Python que proporciona herramientas simples y eficientes para el análisis predictivo y el aprendizaje automático.
+XGBoost: Una biblioteca optimizada para el aprendizaje automático basada en árboles de decisión, conocida por su rendimiento y precisión.
+LightGBM: Una biblioteca eficiente para el aprendizaje automático basada en árboles, que es rápida y precisa, especialmente en grandes conjuntos de datos.
+CatBoost: Desarrollado por Yandex, es un sistema de aprendizaje automático basado en árboles de decisión, conocido por su manejo eficaz de características categóricas.
+
+### Plataformas y Entornos de Desarrollo ###
+Google Colab: Una plataforma gratuita que permite ejecutar código Python en entornos basados en Jupyter Notebook, con soporte para TensorFlow y PyTorch.
+Jupyter Notebook: Una aplicación web que permite crear y compartir documentos que contienen código en vivo, ecuaciones, visualizaciones y texto.
+Kaggle: Ofrece notebooks en la nube y competencias de datos, así como un entorno para practicar y competir en el aprendizaje automático.
+Microsoft Azure Machine Learning: Un servicio en la nube que proporciona herramientas y servicios para construir, entrenar e implementar modelos de aprendizaje automático.
+Amazon SageMaker: Un servicio en la nube de AWS que facilita el desarrollo y la implementación de modelos de aprendizaje automático a gran escala.
+
+### Herramientas de Visualización ###
+Matplotlib: Una biblioteca de Python para crear gráficos y visualizaciones estáticas, animadas e interactivas.
+Seaborn: Basada en Matplotlib, proporciona una interfaz de alto nivel para crear gráficos atractivos y informativos.
+Plotly: Una biblioteca para crear gráficos interactivos y visualizaciones en la web.
+TensorBoard: Una herramienta para visualizar el entrenamiento de modelos en TensorFlow, incluyendo gráficos de métricas, histogramas y distribuciones.
+
+### Otras Herramientas y Servicios ###
+H2O.ai: Ofrece herramientas de aprendizaje automático y análisis de datos, incluyendo H2O-3 y Driverless AI.
+DataRobot: Una plataforma automatizada de aprendizaje automático que ayuda en la construcción, entrenamiento y despliegue de modelos de ML.
+RapidMiner: Un entorno de desarrollo de datos que ofrece herramientas para preparación de datos, aprendizaje automático y visualización.
 
